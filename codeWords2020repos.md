@@ -16,7 +16,7 @@
 ### Jamie Tung | https://github.com/Jamtt/Codewords
 ### Hamish Payne | https://github.com/HamishPayne/CODE-WORDS
 ### Napasorn | https://github.com/napasornc/c0dew0rd
-### Natasha Nathania | https://github.com/natnathania/
+### Natasha Nathania | https://github.com/natnathania/Codewords-2020.git
 ### Taj Edward Joyner Healy | https://github.com/fergarundel/CODE-WORDS
 ### Win | https://github.com/WWsiyang/CODEWORD
 ### Taj Edward Joyner Healy | https://github.com/TajHealy/CodeWords
